@@ -14,6 +14,8 @@ public class CreateContactTest {
 		System.out.println(USERNAME);
 		System.out.println(PASSWORD);
 		System.out.println("CreateContact");
+		System.out.println("CreateContact1");
+		
 	}
 	@Test
 	
