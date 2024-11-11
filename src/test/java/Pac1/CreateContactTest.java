@@ -21,6 +21,7 @@ public class CreateContactTest {
 	
 	public void createcontactwithphno() {
 		System.out.println("CreateContactwithphno");
+		System.out.println("CreateContact1");
 	}
 
 }
